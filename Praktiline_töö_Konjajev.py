@@ -23,7 +23,7 @@ print("Kütusekulu arvutamine")
 l=float(input("Kasutaja sisestab tangitud kütuse liitrid: "))
 km=float(input("Kasutaja sisestab läbitud kilomeetrid: "))
 p=l/km*100
-print (f"Vastus: {p}l/km")
+print (f"Vastus: {p}l/100km")
 print()
 
 #7
